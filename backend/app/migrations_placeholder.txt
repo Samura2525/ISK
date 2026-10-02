@@ -1,0 +1,1 @@
+Для production подключи Alembic. MVP намеренно создает таблицы через SQLAlchemy create_all при старте.
